@@ -1,0 +1,19 @@
+# Uploaded files are served as plain downloads; nothing in here may run as a script.
+Options -Indexes -ExecCGI
+RemoveHandler .php .phtml .phar .php3 .php4 .php5 .php7 .php8 .pht .cgi .pl .py
+RemoveType .php .phtml .phar
+<FilesMatch "(?i)\.(php\d?|phtml|phar|pht|cgi|pl|py|sh|htaccess|html?|svg|js)$">
+  <IfModule mod_authz_core.c>
+    Require all denied
+  </IfModule>
+  <IfModule !mod_authz_core.c>
+    Order allow,deny
+    Deny from all
+  </IfModule>
+</FilesMatch>
+<IfModule mod_headers.c>
+  Header set X-Content-Type-Options "nosniff"
+  <FilesMatch "(?i)\.(pdf|docx?|xlsx?|pptx?|zip)$">
+    Header set Content-Disposition "attachment"
+  </FilesMatch>
+</IfModule>

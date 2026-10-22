@@ -1,0 +1,115 @@
+{
+  "settings": {
+    "email": "info@8dnavigator.com",
+    "notify_email": "info@8dnavigator.com",
+    "location": "Budapest, Hungary",
+    "languages": "English, Hungarian",
+    "tagline": "The True North in Problem Management",
+    "hero_image": "",
+    "message_retention_months": 24
+  },
+  "company": {
+    "legal_name": "",
+    "address": "",
+    "reg_no": "",
+    "tax_no": "",
+    "hosting": "",
+    "log_retention": "30 days",
+    "privacy_effective": ""
+  },
+  "home": {
+    "hero_eyebrow": "Quality support for medical device manufacturers",
+    "hero_title": "The [true north] in problem management",
+    "hero_lede": "We help quality teams handle nonconformances, customer and supplier complaints, investigations and CAPA, from the first signal to an effective, audit-ready closure.",
+    "hero_button": "Get the free resources",
+    "hero_button2": "Discuss an investigation",
+    "about_title": "Built by people who have run the investigations themselves",
+    "about_mission": "Quality management support for the medical device industry, focused on nonconformances, complaints, investigations and CAPA.",
+    "about_text": "8D Navigator is a Budapest-based team of quality professionals with decades of experience in medical device manufacturing, pharmaceuticals and ISO 9001 industries.\n\nWe have opened, investigated and closed nonconformances, complaints and CAPAs ourselves, and defended them in audits. We know where investigations stall: **vague problem statements**, root causes that stop at **“human error”**, and corrective actions that are **never checked for effectiveness**.\n\nWe started 8D Navigator to share what works. Our templates and trainings are free, so any quality team, from a start-up to an established manufacturer, can run a complaint and CAPA process that is compliant, lean and practical.",
+    "credentials": "ISO 13485\n21 CFR Part 820\nISO 9001\nPharma GMP\nEU MDR",
+    "services_title": "Four processes where quality systems are tested most",
+    "services_lede": "Auditors look at these records first. We help you make them consistent, traceable and effective.",
+    "services": [
+      {"ref": "ISO 13485:2016 §8.3", "title": "Nonconformances", "text": "Control of nonconforming product and process deviations, from detection to disposition.", "bullets": "Segregation, disposition and concession decisions\nRisk-based decision on when to investigate\nTrending and escalation to CAPA"},
+      {"ref": "ISO 13485:2016 §8.2.2 · EU MDR Art. 87", "title": "Customer complaints", "text": "A complaint process that is fast for the customer and complete for the auditor.", "bullets": "Intake, evaluation and documented decisions\nReportability assessment for vigilance and FDA MDR\nClear customer response letters"},
+      {"ref": "ISO 13485:2016 §7.4 · §8.5.2", "title": "Supplier complaints", "text": "Supplier corrective action requests that get real answers, not copy-pasted 8D reports.", "bullets": "Issuing and tracking SCARs\nReviewing supplier root cause and actions\nVerifying supplier containment and effectiveness"},
+      {"ref": "ISO 13485:2016 §8.5.2 · §8.5.3", "title": "Investigations and CAPA", "text": "Root cause analysis that holds up, and actions that measurably stop recurrence.", "bullets": "5 Why, Ishikawa, Is / Is-not and fault tree analysis\nHuman error investigations beyond “retrain the operator”\nEffectiveness checks with defined criteria"}
+    ],
+    "services_note": "We also help with documentation and technical writing, and with improving your quality management system as a whole.",
+    "method_title": "Nine disciplines from first signal to closure",
+    "method_lede": "8D is the structured problem-solving route we use and teach. Every template and training we offer maps to these steps.",
+    "method_steps": [
+      {"code": "D0", "title": "Prepare", "text": "Assess the event, take emergency actions and decide whether a full 8D is needed.", "highlight": false},
+      {"code": "D1", "title": "Build the team", "text": "A small cross-functional team with product and process knowledge.", "highlight": false},
+      {"code": "D2", "title": "Describe the problem", "text": "Facts, not assumptions: what, where, when and how many, with Is / Is-not.", "highlight": false},
+      {"code": "D3", "title": "Contain", "text": "Protect the customer while you investigate: quarantine, sort, check field stock.", "highlight": false},
+      {"code": "D4", "title": "Find the root cause", "text": "Occurrence and escape root causes, each verified with data.", "highlight": true},
+      {"code": "D5", "title": "Choose corrective actions", "text": "Actions that remove the root cause, with their risk impact assessed.", "highlight": false},
+      {"code": "D6", "title": "Implement and validate", "text": "Put actions in place and prove they work with effectiveness data.", "highlight": false},
+      {"code": "D7", "title": "Prevent recurrence", "text": "Update procedures, FMEA and training, and apply them to similar products.", "highlight": false},
+      {"code": "D8", "title": "Close and recognize", "text": "Formal closure, lessons learned and recognition of the team.", "highlight": false}
+    ],
+    "free_title": "Everything you need to set up the process, free of charge",
+    "free_lede": "Editable documents and training content written by practitioners. Adapt them to your own quality system.",
+    "standards": [
+      {"name": "ISO 13485:2016", "desc": "Medical devices quality management systems"},
+      {"name": "21 CFR Part 820", "desc": "FDA Quality Management System Regulation (QMSR)"},
+      {"name": "EU MDR 2017/745", "desc": "Post-market surveillance and vigilance"},
+      {"name": "ISO 14971:2019", "desc": "Risk management for medical devices"},
+      {"name": "ISO 9001:2015", "desc": "Quality management systems, all industries"}
+    ],
+    "faq": [
+      {"q": "Why are the resources free?", "a": "We want good investigation practice to be easy to adopt. Sharing our templates and trainings is how we pass on our experience and get to know quality teams facing the same problems. There is no subscription and no obligation."},
+      {"q": "Do the templates meet ISO 13485 and FDA requirements?", "a": "They are written to meet ISO 13485:2016 and 21 CFR Part 820, and each one references the clauses it covers. Every quality system is different, so review and adapt them to your own processes, product risk class and document control before you release them."},
+      {"q": "What format are the templates in?", "a": "Editable Word and Excel files. You can add your own logo, document number, revision and approval block."},
+      {"q": "Who are the trainings for?", "a": "Quality engineers, complaint handlers, CAPA owners, production and engineering staff who take part in investigations, and managers who review and approve CAPAs."},
+      {"q": "Can you help with a specific investigation?", "a": "Yes. Describe the case briefly in the contact form, without confidential details. We will reply and agree with you how to proceed, including a confidentiality agreement if needed."}
+    ],
+    "cta_title": "Stuck with a CAPA that will not close?",
+    "cta_text": "Send us a short description of the problem. We will tell you how we can help."
+  },
+  "resources": {
+    "intro": "SOP templates, logs and report forms, training materials and live trainings for nonconformance, complaint and CAPA management. Written by practitioners, mapped to ISO 13485 and the 8D method.",
+    "how_to": "**How to get a document:** choose **Request free copy**, send the short form, and we email you the editable file. Every resource is free. Review and adapt each template to your own quality system before release.",
+    "categories": {
+      "templates": {"title": "SOP templates", "text": "Standard operating procedures you can adapt and release under your own document control."},
+      "logs": {"title": "Logs and reports", "text": "Registers for trending and follow-up, and report forms that walk the investigator through each step."},
+      "materials": {"title": "Training materials", "text": "Slide decks with exercises and examples, ready for your own internal training sessions."}
+    },
+    "items": [
+    {"visible": true, "category": "templates", "code": "8DN-SOP-01", "title": "Control of Nonconforming Product", "description": "Identification, segregation, evaluation and disposition of nonconforming product, including concessions and rework.", "format": "DOCX", "ref": "ISO 13485 §8.3", "revision": "Rev. A", "file": "", "public_download": false},
+    {"visible": true, "category": "templates", "code": "8DN-SOP-02", "title": "Customer Complaint Handling", "description": "Complaint intake, evaluation, investigation decision, reportability assessment and customer response.", "format": "DOCX", "ref": "§8.2.2 · §8.2.3", "revision": "Rev. A", "file": "", "public_download": false},
+    {"visible": true, "category": "templates", "code": "8DN-SOP-03", "title": "Supplier Corrective Action Request (SCAR)", "description": "When to issue a SCAR, what to ask the supplier for, and how to review and close the response.", "format": "DOCX", "ref": "§7.4 · §8.5.2", "revision": "Rev. A", "file": "", "public_download": false},
+    {"visible": true, "category": "templates", "code": "8DN-SOP-04", "title": "Corrective and Preventive Action (CAPA)", "description": "CAPA initiation criteria, risk-based prioritisation, action planning, effectiveness verification and closure.", "format": "DOCX", "ref": "§8.5.2 · §8.5.3", "revision": "Rev. A", "file": "", "public_download": false},
+    {"visible": true, "category": "templates", "code": "8DN-SOP-05", "title": "Investigation and Root Cause Analysis", "description": "How to run an investigation with the 8D method, including tool selection and evidence requirements.", "format": "DOCX", "ref": "8D · D0–D8", "revision": "Rev. A", "file": "", "public_download": false},
+    {"visible": true, "category": "templates", "code": "8DN-SOP-06", "title": "Human Error Investigation", "description": "A guideline for looking past “human error” to the system causes behind it, with a classification of error types.", "format": "DOCX", "ref": "Human factors", "revision": "Rev. A", "file": "", "public_download": false},
+    {"visible": true, "category": "logs", "code": "8DN-LOG-01", "title": "Nonconformance Log", "description": "Register of nonconformances with disposition, status and fields ready for monthly trending.", "format": "XLSX", "ref": "§8.3 · §8.4", "revision": "Rev. A", "file": "", "public_download": false},
+    {"visible": true, "category": "logs", "code": "8DN-LOG-02", "title": "Complaint Log", "description": "Complaint register with reportability decision, investigation link and response deadlines.", "format": "XLSX", "ref": "§8.2.2", "revision": "Rev. A", "file": "", "public_download": false},
+    {"visible": true, "category": "logs", "code": "8DN-LOG-03", "title": "CAPA Log", "description": "CAPA register with owners, due dates, action status and effectiveness check results.", "format": "XLSX", "ref": "§8.5.2", "revision": "Rev. A", "file": "", "public_download": false},
+    {"visible": true, "category": "logs", "code": "8DN-FRM-01", "title": "8D Report", "description": "The complete 8D report form, D0 to D8, with guidance text for each discipline.", "format": "DOCX", "ref": "8D · D0–D8", "revision": "Rev. A", "file": "", "public_download": false},
+    {"visible": true, "category": "logs", "code": "8DN-FRM-02", "title": "Investigation Report", "description": "A shorter investigation report for nonconformances and complaints that do not need a full 8D.", "format": "DOCX", "ref": "§8.2.2 · §8.3", "revision": "Rev. A", "file": "", "public_download": false},
+    {"visible": true, "category": "logs", "code": "8DN-FRM-03", "title": "SCAR Form", "description": "Supplier corrective action request with containment, root cause and action sections for the supplier.", "format": "DOCX", "ref": "§7.4", "revision": "Rev. A", "file": "", "public_download": false},
+    {"visible": true, "category": "logs", "code": "8DN-FRM-04", "title": "CAPA Effectiveness Check Record", "description": "Defines the success criteria, data source and result of each effectiveness check.", "format": "DOCX", "ref": "§8.5.2 f)", "revision": "Rev. A", "file": "", "public_download": false},
+    {"visible": true, "category": "logs", "code": "8DN-FRM-05", "title": "Complaint Reportability Decision Form", "description": "Documents the decision on vigilance and FDA MDR reporting, with the rationale and timelines.", "format": "DOCX", "ref": "EU MDR Art. 87 · 21 CFR 803", "revision": "Rev. A", "file": "", "public_download": false},
+    {"visible": true, "category": "materials", "code": "8DN-TRN-01", "title": "8D Problem Solving Fundamentals", "description": "The eight disciplines step by step, with a worked medical device example.", "format": "PPTX", "ref": "8D", "revision": "Rev. A", "file": "", "public_download": false},
+    {"visible": true, "category": "materials", "code": "8DN-TRN-02", "title": "Root Cause Analysis Tools", "description": "5 Why, Ishikawa, Is / Is-not and fault tree analysis, with exercises for each tool.", "format": "PPTX", "ref": "D4", "revision": "Rev. A", "file": "", "public_download": false},
+    {"visible": true, "category": "materials", "code": "8DN-TRN-03", "title": "Writing a Strong Problem Statement", "description": "How to describe a problem with facts and data so the investigation starts in the right place.", "format": "PPTX", "ref": "D2", "revision": "Rev. A", "file": "", "public_download": false},
+    {"visible": true, "category": "materials", "code": "8DN-TRN-04", "title": "Human Error in Investigations", "description": "Error types, performance shaping factors and actions that work better than retraining.", "format": "PPTX", "ref": "Human factors", "revision": "Rev. A", "file": "", "public_download": false},
+    {"visible": true, "category": "materials", "code": "8DN-TRN-05", "title": "Complaint Handling and Vigilance", "description": "From complaint intake to reporting decisions under ISO 13485, EU MDR and FDA rules.", "format": "PPTX", "ref": "§8.2.2 · MDR", "revision": "Rev. A", "file": "", "public_download": false},
+    {"visible": true, "category": "materials", "code": "8DN-TRN-06", "title": "CAPA Effectiveness Checks", "description": "How to set measurable criteria and choose the right time and data to verify effectiveness.", "format": "PPTX", "ref": "D6 · §8.5.2", "revision": "Rev. A", "file": "", "public_download": false}
+    ],
+    "trainings_title": "Online and on-site trainings",
+    "trainings_text": "Live sessions led by our team. We tailor the content to your products, processes and open cases.",
+    "trainings": [
+      {"kicker": "Online", "title": "Live online training", "text": "Interactive sessions over video call for teams at one or more sites. Short modules fit into a normal working day.", "topics": "8D, root cause analysis, human error, complaint handling, CAPA effectiveness", "format": "Live presentation, exercises and Q&A", "cost": "Free", "button": "Request online training", "topic_key": "training-online"},
+      {"kicker": "On-site", "title": "On-site workshop", "text": "A hands-on workshop at your facility. We work through your own nonconformances, complaints or CAPAs with the team.", "topics": "Any of the online topics, or a live investigation walk-through", "format": "Workshop on the shop floor and in the meeting room", "cost": "Free", "button": "Request on-site training", "topic_key": "training-onsite"}
+    ],
+    "cta_title": "Need a template that is not listed?",
+    "cta_text": "Tell us what you are working on. If we have it, or can write it, we will send it to you."
+  },
+  "contact": {
+    "title": "Tell us what you are working on",
+    "intro": "Request a free template or training, or describe an investigation you need help with. We reply by email.",
+    "next_steps": "We read your message and reply by email.\nFor templates and materials, we send you the editable files.\nFor trainings and investigations, we agree the scope and timing with you."
+  }
+}
